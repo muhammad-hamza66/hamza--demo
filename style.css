@@ -1,0 +1,105 @@
+body {
+  font-family: 'Georgia', serif;
+  background-color: #f8f9fa;
+}
+.navbar {
+  background-color: #1F4529;
+}
+.navbar-brand {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #fff !important;
+}
+.hero-section {
+  background: url(./Assetes/herosection.jpg) no-repeat center center/cover;
+  color: #fff;
+  padding: 100px 0;
+  text-align: center;
+}
+.hero-section h1 {
+  font-size: 3.5rem;
+  font-weight: bold;
+}
+.surah-list {
+  padding: 50px 0;
+}
+.surah-card {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin-bottom: 20px;
+  transition: transform 0.3s ease;
+}
+.surah-card:hover {
+  transform: translateY(-5px);
+}
+.surah-card h3 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #2c3e50;
+}
+.surah-card p {
+  color: #666;
+}
+.footer {
+  background-color: #1F4529;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+}
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ /* body{
+   padding: 0px;
+   margin: 0px;
+ }
+ 
+ :root{
+   --bg-color-primaray : rgb(54, 228, 69);
+   --text-color-primary : rgb(146, 27, 27);
+   --amara-marzi : 24px;
+ }
+
+section{
+   background-color: var(--bg-color-primaray);
+}
+
+h1{
+   color: var(--text-color-primary);
+   margin: var(--amara-marzi);
+}
+
+p{
+   color: var(--text-color-primary);
+   margin: var(--amara-marzi);
+} 
+
+ @media (max-width : 900px){
+   body{
+    background-color: yellow;
+    color: black;
+   }
+
+ } */
